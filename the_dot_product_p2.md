@@ -150,7 +150,7 @@ $\mathbf{v}= 2\mathbf{i}+4\mathbf{j}$, and $\mathbf{w} = -2\mathbf{i}+6\mathbf{j
 
 <font color ='green'>Well, we already calculated $v_1$ before, right? Anyone remember? Right, it was $\\ \Rightarrow -\mathbf{i}+ 3\mathbf{j}$</font>
 
-<font color ='blue'>So then $\\\mathbf{v_2} = (2\mathbf{i}+4\mathbf{j})-(-\mathbf{i}+ 3\mathbf{j}) \\ \Rightarrow 3\mathbf{i}+\mathbf{j}$</font>
+<font color ='blue'>So then $\mathbf{v_2} = (2\mathbf{i}+4\mathbf{j})-(-\mathbf{i}+ 3\mathbf{j}) \\ \Rightarrow 3\mathbf{i}+\mathbf{j}$</font>
 
 <font color ='green'>Alright you guys, now it's time for real physics stuff. Aren't you excited!? A little?</font>
 
@@ -172,7 +172,8 @@ Remember our dog example before? Your dragging along your dog up a hill. Well ho
 ## <ins>Example 4.2</ins>
 <font color ='green'>Ok ok that was way too easy I know you can do a problem more difficult than that. What if you were going dragging him from his leash at a 35$\degree$ angle? Then how would you calculate it?</font>
 
-<font color ='green'>easy, you would just multiply that same value by the cos of 35$\degree$</font>
+easy, you would just multiply that same value by the cos of 35 $\degree$
+
 <font color ='green'>$600\cdot\cos35\degree\approx 491.5 ft\cdot pounds$</font>
 
 <font color ='green'>That's all I have for you guys today, thank you guys for letting me come in and teach you. I'm really impressed you all are a really smart group! I hope you all liked the lesson today!</font>
