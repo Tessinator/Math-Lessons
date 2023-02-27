@@ -48,6 +48,7 @@ if $\mathbf{v} = 2\mathbf{i}-\mathbf{j}$, and $\mathbf{w} = 3\mathbf{i}+4\mathbf
 <font color ='green'>Now remember, if the result of this dot product is zero, there's really no reason to continue your calculations because we know if the end result is zero, the angle will be 90$\degree$, right? I recommend always calculating this part first.</font>
 
 <font color ='blue'>$\Rightarrow ||\mathbf{v}|| = \sqrt{2^2 + (-1)^2} =\sqrt{5}\\$</font>
+
 and 
 
 <font color = 'blue'>$||\mathbf{w}|| = \sqrt{3^3 + 4^2} = \sqrt{25} = 5$</font>
