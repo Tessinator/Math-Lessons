@@ -30,7 +30,7 @@ if $\mathbf{u} = 3\mathbf{i}+6\mathbf{j}$, and $\mathbf{v} = -4\mathbf{i}+2\math
 
 <font color ='green'>Who can tell me the formula for finding the angle between two vectors v and w?</font>
 
-$\cos\theta =$______________ what?
+$\cos\theta =$   ______________ what?
 $\\\cos\theta =\frac{\mathbf{v} \cdot \mathbf{w}}{||\mathbf{v}||\cdot ||\mathbf{w}||}$
 
 
