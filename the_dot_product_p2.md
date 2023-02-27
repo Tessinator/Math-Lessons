@@ -170,7 +170,7 @@ Remember our dog example before? Your dragging along your dog up a hill. Well ho
 <font color ='blue'>$(20)(30) = 600  foot\cdot pounds$</font>
 
 ## <ins>Example 4.2</ins>
-Ok ok that was way too easy I know you can do a problem more difficult than that. What if you were going dragging him from his leash at a 35$\degree$ angle? Then how would you calculate it?
+Ok ok that was way too easy I know you can do a problem more difficult than that. What if you were going dragging him from his leash at a 35 $\degree$ angle? Then how would you calculate it?
 
 easy, you would just multiply that same value by the cos of 35 $\degree$
 
