@@ -36,7 +36,7 @@ $\\\cos\theta =\frac{\mathbf{v} \cdot \mathbf{w}}{||\mathbf{v}||\cdot ||\mathbf{
 
 <font color ='green'>But this doesn't give us the angle, right? What do we need to do to get the angle? YES, exactly, get the inverse cosine.</font>
 
-$\\\theta = \cos^{-1}(\frac{\mathbf{v} \cdot \mathbf{w}}{||\mathbf{v}||\cdot ||\mathbf{w}||})$
+$\theta = \cos^{-1}(\frac{\mathbf{v} \cdot \mathbf{w}}{||\mathbf{v}||\cdot ||\mathbf{w}||})$
 
 <font color ='green'>So let's do another quick example and then we'll teach you the real stuff for today's lesson: </font>
 
